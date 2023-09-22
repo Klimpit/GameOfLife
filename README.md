@@ -1,0 +1,2 @@
+# GameOfLife
+Elementary cellular automaton
